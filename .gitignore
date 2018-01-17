@@ -69,7 +69,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
+genres1/
 # pyenv
 .python-version
 
