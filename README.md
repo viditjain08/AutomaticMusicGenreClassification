@@ -1,1 +1,4 @@
 # apogee_amgc
+
+A project accepted in APOGEE (BITS Pilani’s Technical Fest). Currently work is being done on a machine learning model and a deep learning model to correctly predict Latin music and to reduce the subjectivity of music genre classification that currently exists
+in the music industry. Some features that we have selected are mel-frequency cepstrum coefficients, filterbank energies and spectral subband centroids. These features of a song/music piece that have been extracted are then passed through PCA Algorithm to improve time complexity of the problem. Currently research is being conducted into different methodologies after breaking the problem into two dimensions - namely the space dimension (or feature based dimensions) and a temporal dimension. Test accuracies are being calculated from the publicly available Latin Music Database.
